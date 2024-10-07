@@ -1,0 +1,26 @@
+.paragraph-style {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraph-style.larger {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-text {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* Remember you can remove the duplication of code in the last section by reusing the selector for the paragraph style larger class */
+
+
+
+
+
